@@ -43,9 +43,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CANEARTH-KENNETH&theme=tokyo-night)
 
 ---
-##  Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=CANEARTH-KENNETH&color=blue)
 
 
  From [CANEARTH-KENNETH](https://github.com/CANEARTH-KENNETH)
