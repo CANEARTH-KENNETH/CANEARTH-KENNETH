@@ -41,7 +41,5 @@
 ##  Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CANEARTH-KENNETH&theme=tokyo-night)
-
 ---
-
  From [CANEARTH-KENNETH](https://github.com/CANEARTH-KENNETH)
