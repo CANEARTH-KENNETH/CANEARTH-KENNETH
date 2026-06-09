@@ -28,7 +28,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
 ---
 ## GitHub Stats
 
