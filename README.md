@@ -21,7 +21,6 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:hlungwanikenneth01@gmail.com)
 
 ##  Languages and Tools
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++)
