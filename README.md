@@ -1,5 +1,4 @@
 # I'm Hlungwani Kenneth
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Cybersecurity+Enthusiast&center=true&width=500&height=50)
 
 ## About Me
